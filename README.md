@@ -13,3 +13,6 @@ Contributors / Licensing
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 
+Extra Material
+==============
+random color : http://stackoverflow.com/questions/1484506/random-color-generator-in-javascript
